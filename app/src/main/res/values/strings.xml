@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">L8</string>
+    <string name="calculate">Calculate</string>
+    <string name="calculation_method">Calculation method</string>
+    <string name="gender">Gender:</string>
+    <string name="age">Date of birth</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string-array name="Methods">
+        <item>Mifflin method</item>
+        <item>Harris method</item>
+    </string-array>
+    <string-array name="Genders">
+        <item>Female</item>
+        <item>Male</item>
+    </string-array>
+</resources>
